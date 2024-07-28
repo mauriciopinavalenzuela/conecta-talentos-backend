@@ -1,4 +1,4 @@
-import { Empresa } from './Empresa';  // Importar la clase Empresa
+import { Empresa } from './Empresa';  
 
 export class OfertaLaboral {
     titulo: string;
