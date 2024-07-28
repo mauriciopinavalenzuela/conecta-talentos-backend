@@ -1,4 +1,5 @@
 export class Empresa {
+    id: number;  
     nombre: string;
     sector: string;
     ubicacion: string;
